@@ -5,7 +5,7 @@
 2. - Instalación
 3. - Acceso 
 4. - Descripción del panel de control.
-[5. - Despliegue de un contenedor httpd con una paǵina personalizada y mapeaa por el puerto 8082.](./1-introduccion.md)
+[5. - Despliegue de un contenedor httpd con una paǵina personalizada y mapeaa por el puerto 8082.](./1-Introduccion.md)
 
 # Referencias:
 #### Debes indicar las referencias utilizadas: Vídeos, páginas web, etc.
